@@ -1,5 +1,5 @@
 ### Ola! Eu sou o Gabriel Rosa 👋
-Sou Gabriel Rosa, estudante de Ciências da Computação.
+
 ##
 
 <div align="center">
