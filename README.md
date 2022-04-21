@@ -1,6 +1,12 @@
-### Ola! Eu sou o Gabriel Rosa 👋
+## Hello There
 
-##
+## Detailed information
+
+* **Name**: Gabriel Rosa
+* **Age**: 21
+* **Living in**: Campinas - SP, Brazil
+* **Stack**: Python - SQL 
+* **University**: Computer Science student (3º semester)
 
 ##
 
