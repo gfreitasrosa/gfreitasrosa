@@ -2,7 +2,7 @@
 
 ## Detailed information
 
-* **Name**: Gabriel Rosa
+* **Name**: Gabriel de Freitas Rosa
 * **Age**: 21
 * **Living in**: Campinas - SP, Brazil
 * **Stack**: Python - SQL 
