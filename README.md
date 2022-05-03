@@ -1,12 +1,14 @@
-## Hello There
+## Olá
 
-## Detailed information
+Sou estudante de Ciências da Computação e utilizo essa plataforma para armazenar alguns do meus projetos pessoais, acadêmicos e meus estudos diários.
 
-* **Name**: Gabriel de Freitas Rosa
-* **Age**: 21
-* **Living in**: Campinas - SP, Brazil
+## Informação detalhada
+
+* **Nome**: Gabriel de Freitas Rosa
+* **Idade**: 21
+* **Morando em**: Campinas - SP, Brasil
 * **Stack**: Python - SQL 
-* **University**: Computer Science student (3º semester)
+* **Faculdade**: Estudante de Ciências da Computação (3º semestre)
 
 ##
 
