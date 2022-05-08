@@ -8,7 +8,7 @@ Sou estudante de Ciências da Computação e utilizo essa plataforma para armaze
 * **Idade**: 21
 * **Morando em**: Campinas - SP, Brasil
 * **Stack**: Python - SQL 
-* **Faculdade**: Estudante de Ciências da Computação (3º semestre)
+* **Faculdade**: Ciências da Computação (3º semestre)
 
 ##
 
