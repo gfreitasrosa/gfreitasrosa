@@ -8,7 +8,7 @@ Sou estudante de Ciências da Computação e utilizo essa plataforma para armaze
 
 <div align="right">
      <a href="https://github.com/gfreitasrosa">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfreitasrosa&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+        <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfreitasrosa&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
         alt="Linguagens mais usadas" align="right">
     </a>
 </div>
@@ -18,7 +18,7 @@ Sou estudante de Ciências da Computação e utilizo essa plataforma para armaze
 * **Morando em**: Campinas - SP, Brasil
 * **Stack**: Python
 * **Faculdade**: Ciências da Computação (3º semestre)
-<br>
+
 
 ----
 
