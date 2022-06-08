@@ -18,6 +18,7 @@ Sou estudante de Ciências da Computação e utilizo essa plataforma para armaze
 * **Morando em**: Campinas - SP, Brasil
 * **Stack**: Python
 * **Faculdade**: Ciências da Computação (3º semestre)
+<br>
 
 ----
 
