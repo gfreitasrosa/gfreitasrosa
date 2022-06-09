@@ -23,16 +23,12 @@ Sou estudante de Ciências da Computação e utilizo essa plataforma para armaze
 ----
 
 <div align="center">
-<a target='_blank' href="https://twitter.com/gfreitasrosa">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target='_blank'>
-</a>
-<a target='_blank' href="https://instagram.com/gfreitasrosa">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target='_blank'>
-</a>
-<a href = "mailto:gfreitasrosa27@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/gfreitasrosa" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gfreitasrosa)](https://twitter.com/gfreitasrosa)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-F954AD?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gfreitasrosa/)](https://www.instagram.com/gfreitasrosa/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gfreitasrosa/)](https://www.linkedin.com/in/gfreitasrosa/)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=DevTo&logoColor=white&link=https://dev.to/gfreitasrosa)](https://dev.to/gfreitasrosa)
+
 </div>
+
+
