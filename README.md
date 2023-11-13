@@ -14,10 +14,10 @@ Sou estudante de Ciências da Computação e utilizo essa plataforma para armaze
 </div>
 
 * **Nome**: Gabriel de Freitas Rosa
-* **Idade**: 22
+* **Idade**: 23
 * **Morando em**: Campinas - SP, Brasil
 * **Stack**: SAP ABAP / PL SQL
-* **Faculdade**: Ciências da Computação (4º semestre)
+* **Faculdade**: Ciências da Computação (6º semestre)
 
 
 ----
